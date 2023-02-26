@@ -1,7 +1,7 @@
 # PrisonEscape
 Old project for one of my coding classes
 
-Find this on one of my old USB sticks, so decided to upload it here.
+Found this on one of my old USB sticks, so decided to upload it here.
 
 I made another text adventure for another class project but unfortunaltly I didn't save it lol
 
